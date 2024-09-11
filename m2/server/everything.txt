@@ -1,0 +1,7 @@
+
+
+MONGO DB CONNECTION URL = mongodb+srv://<name>:<password>@cluster0.wimrqde.mongodb.net/?retryWrites=true&w=majority
+
+used mongodb atlas
+
+END POINT OPS = Get () , Post () , Put () , Delete()
